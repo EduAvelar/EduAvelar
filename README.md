@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá pessoal!!! 👋
+
+- Sou graduando em Engenharia de Software;
+- Programador em formação;
+- Atualmente estou aprendendo sobre HTML, CSS e Javascript;
+- Na faculdade estou vendo sobre estrutura de dados usando a linguagem C;
+- Já realizei alguns projetos usando C que estão aqui no Github;
 
 <!--
 - 🔭 I’m currently working on ...
