@@ -1,6 +1,7 @@
 ### Olá pessoal!!! 👋
 
 - Sou graduando em Engenharia de Software;
+- Estagiário como Business Analyst;
 - Programador em formação;
 - Atualmente estou aprendendo sobre HTML, CSS e Javascript;
 - Na faculdade estudei sobre estrutura de dados usando a linguagem C;
