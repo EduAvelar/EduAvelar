@@ -1,7 +1,7 @@
 ### Olá pessoal!!! 👋
 
 - Sou graduado em Engenharia de Software;
-- Estagiário em Quality Assurance;
+- Analista de Qualidade de Software em uma startup irlandesa;
 - Programador em formação;
 - Atualmente estou aprendendo sobre HTML, CSS e Javascript;
 - Na faculdade estudei sobre estrutura de dados usando a linguagem C;
