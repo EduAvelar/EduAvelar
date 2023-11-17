@@ -3,7 +3,7 @@
 - Sou graduado em Engenharia de Software;
 - Analista de Qualidade de Software em uma startup irlandesa;
 - Programador em formação;
-- Atualmente estou aprendendo sobre HTML, CSS e Javascript;
+- Atualmente estou estudando sobre automação de teste com Cypress;
 - Na faculdade estudei sobre estrutura de dados usando a linguagem C;
 - Já realizei alguns projetos usando C que estão aqui no Github;
 
